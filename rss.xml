@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[shastamcbride]]></title>
-        <description><![CDATA[shastamcbride]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Shasta McBride]]></title>
+        <description><![CDATA[Shasta McBride]]></description>
+        <link>https://thegrid.ai/shastamcbride/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Mar 2016 06:42:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 02 Mar 2016 06:44:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/shastamcbride/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Hello, Gridio! Nice to meetcha. </p>]]></description>
-            <link>undefined0787de9f-f6f3-4666-97df-63a294b58789/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b313ae8d-2e05-4364-b1da-dc34be90d328.jpg">]]></description>
+            <link>https://thegrid.ai/shastamcbride/0787de9f-f6f3-4666-97df-63a294b58789/index.html</link>
             <guid isPermaLink="false">0787de9f-f6f3-4666-97df-63a294b58789</guid>
-            <pubDate>Wed, 02 Mar 2016 06:41:53 GMT</pubDate>
+            <pubDate>Wed, 02 Mar 2016 06:44:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
