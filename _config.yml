@@ -1,7 +1,7 @@
 name: shastamcbride
 favicon: null
-layout_spectrum: 0.6019295146688819
-typography_spectrum: 0.28021897468715906
+layout_spectrum: 0.75214
+typography_spectrum: 0.84767
 title: Shasta McBride
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#a0bad1'
+    - '#e52938'
+    - '#625f71'
+    - '#342a24'
+    - '#cb839f'
   brandStrength: 0.48906716681085527
   lightness: 0.6614348464645445
   saturation: 0.31389298429712653
